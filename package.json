@@ -1,0 +1,22 @@
+{
+  "name": "datascene-touch-panel-frontend",
+  "version": "1.0.0",
+  "description": "datascene touch panel using ch5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieZoe/datascene-display-panel-frontend.git"
+  },
+  "keywords": [
+    "ch5"
+  ],
+  "author": "Katie Lugton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatieZoe/datascene-display-panel-frontend/issues"
+  },
+  "homepage": "https://github.com/KatieZoe/datascene-display-panel-frontend#readme"
+}
